@@ -1,0 +1,52 @@
+# depslib dependency file v1.0
+1609746217 source:d:\codeblox\project2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"conversions.h"
+	"Matrices.h"
+	"projectap.h"
+	"projectcom.h"
+	"projectgp.h"
+	"projectvec.h"
+	"sets.h"
+	"file.h"
+
+1608873289 d:\codeblox\project2\conversions.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+
+1608876138 d:\codeblox\project2\matrices.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1608873326 d:\codeblox\project2\projectap.h
+	<stdio.h>
+	<stdlib.h>
+
+1608873334 d:\codeblox\project2\projectcom.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1608873342 d:\codeblox\project2\projectgp.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1608876622 d:\codeblox\project2\projectvec.h
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+
+1608873382 d:\codeblox\project2\sets.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1608873402 d:\codeblox\project2\file.h
+	<stdio.h>
+	<stdlib.h>
+
